@@ -1,0 +1,16 @@
+{
+  "name": "new_regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "CI": "cypress run --record --key 649c2cb8-4844-4792-9114-189f9a23330c"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.1.0",
+    "faker": "^5.5.3",
+    "mocha": "8.4.0"
+  }
+}

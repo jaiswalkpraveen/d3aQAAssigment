@@ -1,0 +1,24 @@
+{
+    "projectTab": "[class='side-nav__main__item']",
+    "newProjectButton": "new project",
+    "projectNameTextField": "#input-field-name",
+    "projectDescriptionTextField": "#textarea-field-nameTextArea",
+    "addProjectButton": "Add",
+    "projectList": ".saved-project__list",
+    "projectNameHeader": ".saved-project__headline__name__text",
+    "projectNameDescription": ".innerWrapper__description",
+    "newSimulationButton": "new simulation",
+
+    "simulationForm": ".settings-form__form",
+    "simulationNameTextField": "#input-field-name",
+    "simulationProjectName": "[name='projectUUID']",
+    "submitSimulationButton": "[class='settings-form__submit-wrapper'] button",
+    "activeProjectTab": "[class='side-nav__main__item side-nav__main__item--active']",
+    "simulationNameTitle": ".saved-config--pct-width__title__name > p"
+}
+
+
+
+
+
+
