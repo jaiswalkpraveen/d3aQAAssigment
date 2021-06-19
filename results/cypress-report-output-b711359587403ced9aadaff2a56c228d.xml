@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="17.6170" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-06-19T19:18:35" tests="0" file="cypress/integration/createProjectNSimulation.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="D3 user login into application and create new project with simulation" timestamp="2021-06-19T19:18:35" tests="2" time="17.6170" failures="0">
+    <testcase name="D3 user login into application and create new project with simulation Create new Project for registered user" time="9.9450" classname="Create new Project for registered user">
+    </testcase>
+    <testcase name="D3 user login into application and create new project with simulation Create Simulation for newly created project for registered user" time="7.6720" classname="Create Simulation for newly created project for registered user">
+    </testcase>
+  </testsuite>
+</testsuites>
